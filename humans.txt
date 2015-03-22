@@ -1,0 +1,4 @@
+# THANKS
+Luke Maciak -- @LukeMaciak
+Dave Perrert (Jekyll Plugins) -- http://recursive-design.com
+Chintan Patel (favicon) -- https://github.com/chintan100

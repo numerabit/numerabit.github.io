@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Numerabit Blog</title>
+		<description>Remembrances, ideas, stuff.</description>
+		<link>http://github.numerabit.org/</link>
+		
+			<item>
+				<title>Beggining</title>
+				<description>&lt;p&gt;“Coming back to where you started is not the same as never leaving.” - A Hat Full of Sky (2004) by Terry Pratchett&lt;/p&gt;
+
+</description>
+				<published>2015-03-22 00:00:00 +0100</published>
+				<link>http://github.numerabit.org//self/2015/03/22/comingback-pratchett/</link>
+			</item>
+		
+	</channel>
+</rss>
