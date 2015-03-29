@@ -14,7 +14,10 @@ title: Home
         </header>
 	
 		<div class="entry">{{ post.excerpt }}</div>
-
+{% if post.readmore %}
+                <div><a href="{{ post.url }}">Read more...</a></div><br/>
+{% else %}
+{% endif %}
 	</article>
 {% endfor %}
 
